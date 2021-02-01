@@ -1,5 +1,7 @@
 # TaxAnalytics.jl
 
+[documentation](https://amitxshukla.github.io/TaxAnalytics.jl/)
+
 TaxAnalytics julia package provide a **unified Analytics platform** to support data analytical operations on all sort of Vendor, Use, Freight, Misc Tax Accruals data.
 
 **Objective:** TextAnalytics package is one complete solution to address complete Tax data wrangling operations.
