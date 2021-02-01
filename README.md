@@ -31,6 +31,13 @@ This package also show case reporting, visualizations to support real time, live
 	**Sponsorship:** open for funding
 
 ---
+Business Process diagram
+<img src="docs/images/taxanalytics_business_process.png" width=200px>
+
+Technical Process Diagram
+<img src="docs/images/taxanalytics_tech_process.png" width=200px>
+---
+
 **Table of Contents:**
 
 Introduction
