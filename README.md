@@ -1,4 +1,4 @@
-# TaxAnalytics.jl
+# TaxAnalytics.ai
 
 ## TaxAnalytics package provide a unified Analytics platform to support data analytical operations on all sort of Vendor, Use, Freight, Misc Tax Accruals data.
 
