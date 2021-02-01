@@ -19,12 +19,12 @@ Further, advance data transformation wrangling techniques can be applied to prep
 
 This package also show case reporting, visualizations to support real time, live reporting on all mobile, web devices. 
 
-	**Author:** Amit Shukla
-	**Last Update Date:** Jan 25, 2021
-	**Who should read this:** small, medium, large ERP Consultants
-	**Version:** 0.22
-	**Consulting:** info@elishconsulting.com
-	**Sponsorship:** open for funding
+	Author: Amit Shukla
+	Last Update Date: Jan 25, 2021
+	Who should read this: small, medium, large ERP Consultants
+	Version: 0.22
+	Consulting: info@elishconsulting.com
+	Sponsorship: open for funding
 
 ---
 Business Process diagram
@@ -34,6 +34,7 @@ Business Process diagram
 Technical Process Diagram
 
 <img src="docs/images/taxanalytics_tech_process.png" width=600px>
+
 ---
 
 **Table of Contents:**
@@ -83,7 +84,7 @@ Step 7: Predict / Regression
 Step 8: Score Prediction
 
     
-	**	ERP Systems**
+	ERP Systems
     Oracle, PeopleSoft, SAP, Tally, Intuit, QuickBooks etc.
     I will cover examples from ERP Domains like GL (General Ledger), AP (Accounts Payable), AR (Account Receivables), B2P (Buy to Pay), Expense, Travel & Time, HCM Human Capital Management, CRM etc.
 ---
