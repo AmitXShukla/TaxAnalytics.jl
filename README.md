@@ -60,7 +60,6 @@ Technical Process Diagram
 - Live Reporting
 - Predictive analytic
 
-!!! info ERP Systems
-
+    **ERP Systems**
     Oracle, PeopleSoft, SAP, Tally, Intuit, QuickBooks etc.
     I will cover examples from ERP Domains like GL (General Ledger), AP (Accounts Payable), AR (Account Receivables), B2P (Buy to Pay), Expense, Travel & Time, HCM Human Capital Management, CRM etc.
