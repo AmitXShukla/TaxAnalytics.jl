@@ -49,52 +49,18 @@ Technical Process Diagram
 
 **Table of Contents:**
 
-Introduction
+- About Taxes
+- ETL or ETL
+- self service data analysis
+- Data Visualization
+- Data Science Operations
+- p-value Null hypothesis tests
+- Feature Engineering
+- ML Models
+- Live Reporting
+- Predictive analytic
 
-About Taxes
+!!! info ERP Systems
 
-Extract
-
-Load
-
-Transform
-
-Prepare Data
-
-Visualization
-
-Analytic
-
-AI
-
-API
-
-Data Science steps
-
-Step 1: Gather Data
-
-    Cash Flow Statements
-    Income Statements
-    Balance Sheets
-    Market data (like geography, news, market trend, jobs etc)
-    Stock prices
-
-Step 2: Prepare/Clean Data
-
-Step 3: Visualize Data
-
-Step 4: Identify features
-
-Step 5: Identify Labels/Regression Values or Prediction
-
-Step 6: Train Model
-
-Step 7: Predict / Regression
-
-Step 8: Score Prediction
-
-    
-	ERP Systems
     Oracle, PeopleSoft, SAP, Tally, Intuit, QuickBooks etc.
     I will cover examples from ERP Domains like GL (General Ledger), AP (Accounts Payable), AR (Account Receivables), B2P (Buy to Pay), Expense, Travel & Time, HCM Human Capital Management, CRM etc.
----
