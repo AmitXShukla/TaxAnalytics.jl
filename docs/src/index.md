@@ -11,11 +11,8 @@ This package is intended for small, medium, large and very Big Organizations who
 !!! info
 
     **Platform:** Oracle OCI, AWS, Google or Microsoft Azure data cloud.
-
     **Analytics:** Power BI, Tableau, Oracle Analytics Cloud or Kibana
-
     **ELT/ETL:** Ascential Datastage, Informatica, Ab Initio
-
     **Programming/Framework:** Python, Julia, JuliaDB, Pytorch, TensorFlow or Flux
 
 
@@ -26,15 +23,10 @@ This package also show case reporting, visualizations to support real time, live
 !!! info
 
     **Author:** Amit Shukla
-
     **Last Update Date:** Jan 25, 2021
-
     **Who should read this:** small, medium, large ERP Consultants
-
     **Version:** 0.22
-
     **Consulting:** info@elishconsulting.com
-
     **Sponsorship:** open for funding
 
 ---
@@ -55,14 +47,24 @@ Technical Process Diagram
 
 ---
 
+```@contents
+Pages = ["tax.md", "elt.md"]
+Depth = 3
+```
+
 **Table of Contents:**
 
-Introduction
+- About Taxes
+- ETL or ETL
+- self service data analysis
+- Data Visualization
+- Data Science Operations
+- p-value Null hypothesis tests
+- Feature Engineering
+- ML Models
+- Live Reporting
+- Predictive analytic
 
-About Taxes
-
-Extract
-
-Load
-
-Transform
+!!! info ERP Systems
+    Oracle, PeopleSoft, SAP, Tally, Intuit, QuickBooks etc.
+    I will cover examples from ERP Domains like GL (General Ledger), AP (Accounts Payable), AR (Account Receivables), B2P (Buy to Pay), Expense, Travel & Time, HCM Human Capital Management, CRM etc.
