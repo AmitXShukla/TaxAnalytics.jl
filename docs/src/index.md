@@ -11,8 +11,10 @@ This package is intended for small, medium, large and very Big Organizations who
 !!! info
 
     **Platform:** Oracle OCI, AWS, Google or Microsoft Azure data cloud.
+
     **Analytics:** Power BI, Tableau, Oracle Analytics Cloud or Kibana
-    **ELT/ETL:** Ascential Datastage, Informatica, Ab Initio
+
+    **ELT/ETL:** Ascential Datastage, Informatica, Ab Initio etc.
     **Programming/Framework:** Python, Julia, JuliaDB, Pytorch, TensorFlow or Flux
 
 
@@ -23,10 +25,15 @@ This package also show case reporting, visualizations to support real time, live
 !!! info
 
     **Author:** Amit Shukla
+
     **Last Update Date:** Jan 25, 2021
+
     **Who should read this:** small, medium, large ERP Consultants
+
     **Version:** 0.22
+
     **Consulting:** info@elishconsulting.com
+
     **Sponsorship:** open for funding
 
 ---
@@ -48,7 +55,7 @@ Technical Process Diagram
 ---
 
 ```@contents
-Pages = ["tax.md", "elt.md"]
+Pages = ["tax.md", "elt.md", "service.md", "visuals.md", "ds.md", "thesis.md", "features.md", "ml.md"]
 Depth = 3
 ```
 
